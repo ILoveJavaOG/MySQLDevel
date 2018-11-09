@@ -1,4 +1,4 @@
-package de.proxdev.gui;
+package de.proxydev.gui;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

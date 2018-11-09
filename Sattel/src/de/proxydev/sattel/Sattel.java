@@ -7,8 +7,8 @@ import org.bukkit.Bukkit;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import de.ilovejava.commands.Command_Create_Horse;
-import de.ilovejava.commands.Command_Give_Horse;
+import de.proxydev.commands.Command_Create_Horse;
+import de.proxydev.commands.Command_Give_Horse;
 import de.proxydev.config.Config_SetUp;
 import de.proxydev.events.Event_Death;
 import de.proxydev.events.Event_DropEvent;

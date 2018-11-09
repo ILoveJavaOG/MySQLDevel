@@ -1,4 +1,4 @@
-package de.ilovejava.commands;
+package de.proxydev.commands;
 
 import java.lang.reflect.Field;
 

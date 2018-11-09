@@ -1,4 +1,4 @@
-package de.proxdev.gui;
+package de.proxydev.gui;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
